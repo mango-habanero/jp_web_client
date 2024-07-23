@@ -23,6 +23,14 @@ npm install
 
 To start the development server, run:
 
+#### locally:
+
 ```sh
 npm run dev
+```
+
+#### docker:
+
+```sh
+docker compose -f docker/Dockerfile up
 ```
